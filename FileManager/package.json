@@ -1,0 +1,10 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "cli:file-manager": "node src/file-manager.js --username=your_username"
+  }
+}
